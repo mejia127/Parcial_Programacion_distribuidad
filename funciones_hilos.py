@@ -1,6 +1,5 @@
 import matriz
 
-
 def matriz_determinante():
     matrizA = matriz.Matriz()
     matrizA.crearMatrizA()
